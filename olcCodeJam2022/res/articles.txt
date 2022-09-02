@@ -1,0 +1,96 @@
+red_sunrise.
+The sun rose at 6 AM. When this happened the sky was red. Specialists say that the red sky is a result of the way sunlight is scattered in different weather systems.
+tex
+- pf
+
+moon.
+This is a beautiful photo of the moon taken by photograph Popa Catalin.
+tex
+- pz
+
+rain_bats.
+Some folks reported that the bats are flying lower than the usual. Nobody can find an explanation why.
+tex
+- pf
+
+active_bees.
+A beekeeper was killed by his own bees. Witnesses told our reporters that the bees were more agitated than the usual.
+- p
+
+active_ants.
+People are complaining about the increased number of ants and their taller than the usual anthills.
+tex
+- p
+
+witch.
+At the public burning of a witch the smoke was going downwards. The priest said that it was because of a spell cast by the witch.
+tex
+- pf
+
+sunny_bats.
+The bats are back to normal, they are flying high in the sky as usual.
+tex
+- s
+
+red_dawn.
+The sun has set at 8 PM. When this happened the sky was red
+tex
+- s
+
+sunny_witch.
+Today a woman who practiced magic was burned at the stake.
+tex
+- s
+
+sunny_clouds.
+This is a beautiful photo of the sky taken by photograph Popa Catalin.
+tex
+- s
+
+clear_water.
+Today, Black Sea was calm.
+- s
+
+vampire_killingspree.
+A gang of vampires attacked a nearby village and killed everyone in their way.
+- z
+
+bats_in_cave.
+No bat was seen in the last week. The experts say that they are staying in their caves.
+tex
+- z
+
+snowy_owl.
+A strange white owl was seen in the woods by a peasant.
+- z
+
+birds.
+People say that they saw floks of birds going north.
+- z
+
+coffin.
+No vampire was seen in the last week. Abraham Van Helsing is suspecting that they are not leaving their coffins.
+tex
+- zf
+
+waves.
+The violent waves brought 50 coffins full of dirt to romanian shore.
+- f
+
+bram_stoker.
+Bram Stoker starts writing a book about Count Dracula.
+
+pumpkin.
+We have in Transylvania the biggest Pumpkin that evey existed. It weights 25 kg.
+tex
+
+girl.
+New in your town. Come to the "Six Nickels" brothel to get the best time of your life.
+tex
+
+butcher.
+20% at the "Farm Pork" butcher shop.
+tex
+
+earthquake.
+The biggest earthquake yet hit in Brasov today.

@@ -1,0 +1,9 @@
+The year is 1895. 
+br
+You've been recently hired as the newest meteorologist at Dracula's Newspaper in Transylvania. 
+br
+You have one job, predict the weather based on the signs that you find in the current article. 
+br
+Otherwise you'll have to face the consequences.
+br
+Dracula's apetite will significantly increase whenever you get the weather wrong.
