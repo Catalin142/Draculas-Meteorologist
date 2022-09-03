@@ -88,6 +88,7 @@ void GameScene::Reset()
 {
 	m_OpenArticle = false;
 	m_CorrectPredicion = false;
+	m_CurrentPage = 0;
 
 	m_ActiveArticles.clear();
 
@@ -209,7 +210,7 @@ void GameScene::drawOpenedArticle()
 		Mouse(true);
 	}
 
-	Renderer::drawQuad({ 0.0f, 0.0f, 0.0f, 0.7f }, { screen_size::width / 2.0f, screen_size::height / 2.0f + 50.0f, 0.0f },
+	Renderer::drawQuad({ 0.0f, 0.0f, 0.0f, 0.9f }, { screen_size::width / 2.0f, screen_size::height / 2.0f + 50.0f, 0.0f },
 		{ 650.0f, 600.0f, 1.0f });
 
 	float width = FontManager::getFont("Basic")->getTextWidth("(esc)", { 25.0f, 25.0f });
