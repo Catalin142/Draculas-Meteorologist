@@ -11,5 +11,5 @@ Run GenerateProject.bat
 Press the right and left arrow to navigate through pages.
 
 # Screenshots
-![Scor](screenshot/ss1.png)
-![Banner](screenshot/ss2.png)
+![Scor](screenshot/ss2.png)
+![Banner](screenshot/ss1.png)
